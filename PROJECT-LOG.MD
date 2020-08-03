@@ -25,3 +25,8 @@ Also started doubting  if this project should remain private.
 ### 20:39
 
 Just thought about how this file could become very big, I am going to transfer the log out of README.MD and into a separate PROJECT-LOG.MD :)
+
+### 22:22
+
+Added more meta-info in the repo of cio-datacore-init. Also recompiled and readded it to the main repo.
+
