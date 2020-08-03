@@ -75,3 +75,9 @@ https://github.com/Marnix0810/cio-datacore-init
 
 I made the license and log and all and started making this repository a happy place for my code.
 
+#### 20:32
+
+Uploaded it to GitHub on Private.
+
+Also started doubting  if this project should remain private.
+
