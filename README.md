@@ -63,3 +63,6 @@ like a real scientist I'll log most of the things I do for future reference.
 
 See [PROJECT-LOG.MD](./PROJECT-LOG.MD).
 
+## Dependency repositories
+### [cio-datacore-init](https://github.com/Marnix0810/cio-datacore-init)
+> `cio-datacore-init` initializes  the 'DATACORE' for the CIO AI project to run.
