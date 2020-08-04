@@ -28,5 +28,8 @@ Just thought about how this file could become very big, I am going to transfer t
 
 ### 22:22
 
-Added more meta-info in the repo of cio-datacore-init. Also recompiled and readded it to the main repo.
+Added more meta-info in the repo of cio-datacore-init. Also recompiled and re-added it to the main repo.
 
+## 2020-8-4
+### 10:10
+I just added a table of contents to readme.md I couldn't just use the Typora TOC because it doesn't work with GitHub, so I manually made one.
