@@ -2,6 +2,11 @@
 
 An AI-assistant like the movies have. Well, if I manage to create it.
 
+## Contents
+- [License](#License)
+- [Log](#Log)
+- [Dependency repositories](#Dependency-repositories)
+
 ## License
 
 The project is licensed under a edited version of my own license ([The 0810 simple and permissive license](https://github.com/Marnix0810/0810-SPL) (rev. [1.2](https://github.com/Marnix0810/0810-SPL/blob/master/latest-1.2/0810-SPL1.2.md))), but it's a private project, so I don't think anyone will ever open it, but if you read this, I probably did ;).
@@ -12,15 +17,15 @@ The project is licensed under a edited version of my own license ([The 0810 simp
 >
 > This software, or at least the code licensed with this license is licensed by Marnix Bloeiman, and can be called 'their' code1
 >
-> 
+>
 >
 > This license gives permission to share, edit, copy, merge, republish or publish the code licensed with this license, however when publishing in any way, you must use the same license (the exact same license, not just **'The 0810 simple and permissive license'** but this exact variant, with the name of the original licenser above) also you may not anywhere in it's code, the code that you added to it or merged with it imply or pretend it's your code or software, you can say *a piece of the software was made by you*, but you may not take the full credit. Also you may not sell the code applying without sufficient changes first.
 >
-> 
+>
 >
 > [**1**]    (When talking about it's code, we also mean the entire software itself.)
 >
-> 
+>
 >
 > ## TL;DR:
 >
