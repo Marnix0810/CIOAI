@@ -33,6 +33,8 @@ Added more meta-info in the repo of cio-datacore-init. Also recompiled and re-ad
 ## 2020-8-4
 ### 10:10
 I just added a table of contents to readme.md I couldn't just use the Typora TOC because it doesn't work with GitHub, so I manually made one.
+### 19:51
+The Twitter account has been made. This log will now continue there!
 
 
 ## 2020-8-6
