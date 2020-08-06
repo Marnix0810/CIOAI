@@ -33,3 +33,10 @@ Added more meta-info in the repo of cio-datacore-init. Also recompiled and re-ad
 ## 2020-8-4
 ### 10:10
 I just added a table of contents to readme.md I couldn't just use the Typora TOC because it doesn't work with GitHub, so I manually made one.
+
+
+## 2020-8-6
+### 18:49
+Just came to think about it... The most of the programming of this project will take place while using it, but it won't learn for now or in any near future at least until it is far enough to function on its own (if ever) so it might be better to just call it a digital assistant since it is no AI yet.
+
+Also, I need to make this project public. And maybe the log on Twitter or something?
