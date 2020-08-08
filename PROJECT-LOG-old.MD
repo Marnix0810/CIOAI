@@ -1,6 +1,7 @@
 # Log
+**_NOTE: THIS LOG HAS MOVED TO Twitter. READ IT AT <https://twitter.com/cioproject>_**
 
-like a real scientist I'll log most of the things I do for future reference.
+like a real scientist I'll log most of the things I do for future reference. 
 
 ## 2020-8-3
 
