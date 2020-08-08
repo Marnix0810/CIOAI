@@ -11,8 +11,8 @@ A digital assistant like the movies have. Well, if I manage to create it.
 ## How to start?
 _The project did not yet come at a phase where it is runnable. The steps that follow will become more clear and will get addition as there's a lot of changes coming. But by running it you can debug everything that does exist today and will get finished tommorow._ :wink:
 
-```shell
-# This code is to be runned in a MacOS/Linux terminal, Powershell.
+```powershell
+# This code is to be runned in a MacOS/Linux terminal, or the multi-os Powershell.
 #
 # Dependencies before running:
 # - Rust (rustup, rustc and cargo)
