@@ -21,8 +21,8 @@ _The project did not yet come at a phase where it is runnable. The steps that fo
 #
 # Step one: The creation of the project space.
 mkdir ./CIO
-mkdir./CIO/Dependency-repositories
-cd ./CIO
+cd ./CIO/
+mkdir ./Dependency-repositories
 # Step two: The cloning of the project.
 # The project itself...
 git clone https://github.com/Marnix0810/CIOAI.git
