@@ -1,11 +1,40 @@
 # CIO AI
 
-An AI-assistant like the movies have. Well, if I manage to create it.
+A digital assistant like the movies have. Well, if I manage to create it.
 
 ## Contents
+- [**How to start**](#how-to-start)
 - [License](#License)
 - [Log](#Log)
 - [Dependency repositories](#Dependency-repositories)
+
+## How to start?
+_The project did not yet come at a phase where it is runnable. The steps that follow will become more clear and will get addition as there's a lot of changes coming. But by running it you can debug everything that does exist today and will get finished tommorow._ :wink:
+
+```shell
+# This code is to be runned in a MacOS/Linux terminal, Powershell.
+#
+# Dependencies before running:
+# - Rust (rustup, rustc and gargo)
+# - Git
+# - A stable internet conection
+#
+# Step one: The creation of the project space.
+mkdir ./CIO
+mkdir./CIO/Dependency-repositories
+cd ./CIO
+# Step two: The cloning of the project.
+# The project itself...
+git clone https://github.com/Marnix0810/CIOAI.git
+git clone https://github.com/Marnix0810/cio-finit.git
+# ...and the dependency-repositories that actually have value!
+cd ./Dependency-repositories
+git clone https://github.com/Marnix0810/cio-datacore-init.git
+
+```
+
+
+
 
 ## License
 
