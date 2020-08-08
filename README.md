@@ -102,5 +102,7 @@ like a real scientist I'll log most of the things I do for future reference.
 See [PROJECT-LOG.MD](./PROJECT-LOG.MD).
 
 ## Dependency repositories
+### [cio-finit](https://github.com/Marnix0810/cio-finit)
+> Project CIO's first initialisation, compiles the dependency repositories and adds the binairy files that get outputted to the main repository.
 ### [cio-datacore-init](https://github.com/Marnix0810/cio-datacore-init)
-> `cio-datacore-init` initializes  the 'DATACORE' for the CIO AI project to run.
+> `cio-datacore-init` initializes  the 'DATACORE' for the CIO project to run.
