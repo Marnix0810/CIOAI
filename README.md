@@ -15,7 +15,7 @@ _The project did not yet come at a phase where it is runnable. The steps that fo
 # This code is to be runned in a MacOS/Linux terminal, Powershell.
 #
 # Dependencies before running:
-# - Rust (rustup, rustc and gargo)
+# - Rust (rustup, rustc and cargo)
 # - Git
 # - A stable internet conection
 #
@@ -30,6 +30,10 @@ git clone https://github.com/Marnix0810/cio-finit.git
 # ...and the dependency-repositories that actually have value!
 cd ./Dependency-repositories
 git clone https://github.com/Marnix0810/cio-datacore-init.git
+cd ..
+# Step three: run the CIO first-initialization.
+cd ./cio-finit
+cargo run
 
 ```
 
