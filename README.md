@@ -9,7 +9,7 @@ A digital assistant like the movies have. Well, if I manage to create it.
 - [Dependency repositories](#Dependency-repositories)
 
 ## How to start?
-_The project did not yet come at a phase where it is runnable. The steps that follow will become more clear and will get addition as there's a lot of changes coming. But by running it you can debug everything that does exist today and will get finished tommorow._ :wink:
+_The project did not yet come at a phase where it is runnable. The steps that follow will become more clear and will get addition as there's a lot of changes coming. But by running it you can debug everything that does exist today and will get finished tomorrow._ :wink:
 
 ```powershell
 # This code is to be runned in a MacOS/Linux terminal, or the multi-os Powershell.
@@ -24,13 +24,8 @@ mkdir ./CIO
 cd ./CIO/
 mkdir ./Dependency-repositories
 # Step two: The cloning of the project.
-# The project itself...
 git clone https://github.com/Marnix0810/CIOAI.git
 git clone https://github.com/Marnix0810/cio-finit.git
-# ...and the dependency-repositories that actually have value!
-cd ./Dependency-repositories
-git clone https://github.com/Marnix0810/cio-datacore-init.git
-cd ..
 # Step three: run the CIO first-initialization.
 cd ./cio-finit
 cargo run
@@ -42,7 +37,7 @@ cargo run
 
 ## License
 
-The project is licensed under a edited version of my own license ([The 0810 simple and permissive license](https://github.com/Marnix0810/0810-SPL) (rev. [1.2](https://github.com/Marnix0810/0810-SPL/blob/master/latest-1.2/0810-SPL1.2.md))), but it's a private project, so I don't think anyone will ever open it, but if you read this, I probably did ;).
+The project is licensed under a edited version of my own license ([The 0810 simple and permissive license](https://github.com/Marnix0810/0810-SPL) (rev. [1.2](https://github.com/Marnix0810/0810-SPL/blob/master/latest-1.2/0810-SPL1.2.md)))
 
 ### [License.md](./License.md):
 
